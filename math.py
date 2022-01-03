@@ -11,6 +11,6 @@ def div(x,y):
         return("Null")  #master branch
     else:
         return x/y
-#square function
+
 def square(x):
-    return x*x
+    pass        # local repo
