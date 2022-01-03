@@ -3,9 +3,9 @@ def add(x,y):
 
 def sub(x,y):
    pass      #bug123 branch
-#multiplication function
+
 def mul(x,y):
-    return x*y
+    pass
 #division function
 def div(x,y):
     if y==0:
